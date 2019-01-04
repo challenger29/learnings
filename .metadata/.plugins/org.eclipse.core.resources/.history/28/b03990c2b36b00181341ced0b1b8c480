@@ -1,0 +1,44 @@
+package dataStructures;
+import java.util.*;
+
+public class BinaryTree {
+	
+	Node root;
+
+	public BinaryTree(Node root) {
+		this.root = root;
+	}
+
+	public BinaryTree() {
+		this.root=null;
+	}
+	
+	public void add(int value){
+		this.root = this.addRecursive(this.root,value);
+	}
+	public Node addRecursive(Node current,int value){
+		if(current == null){
+			return new Node(value);
+		}
+		if(current.value < value){
+			current.left = this.addRecursive(current.left, value);
+		}
+		else{
+			current.right = this.addRecursive(current.right, value);
+		}
+		return current;
+	}
+	public BinaryTree createBinaryTree(){
+		BinaryTree bt = new BinaryTree();
+		bt.add(3);
+		bt.add(2);
+		bt.add(4);
+		return bt;
+	}
+	public void preorder(){
+		if (root ==null){
+			System.out.println("Empty tree");
+		}
+		Queue<Node> q = new LinkedList<>();
+	}
+}

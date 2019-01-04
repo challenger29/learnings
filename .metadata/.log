@@ -1,0 +1,91 @@
+!SESSION 2018-06-09 12:19:09.327 -----------------------------------------------
+eclipse.buildId=4.6.1.M20160907-1200
+java.version=1.8.0_131
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product -keyring /Users/z002r24/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product -data /Users/z002r24/Documents/learning -product org.eclipse.epp.package.jee.product -keyring /Users/z002r24/.eclipse_keyring
+
+!ENTRY org.eclipse.jface.text 2 0 2018-06-09 12:20:32.521
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.number'
+
+!ENTRY org.eclipse.jface.text 2 0 2018-06-09 12:20:32.531
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.round'
+
+!ENTRY org.eclipse.jface.text 2 0 2018-06-09 12:20:32.693
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.number'
+
+!ENTRY org.eclipse.jface.text 2 0 2018-06-09 12:20:32.703
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.round'
+
+!ENTRY org.infinitest.eclipse 1 0 2018-06-09 12:20:33.544
+!MESSAGE Filter file /Users/z002r24/Documents/learning/dataStructures/infinitest.filters does not exist.
+
+!ENTRY org.infinitest.eclipse 1 0 2018-06-09 12:20:33.589
+!MESSAGE Reloading core dataStructures
+
+!ENTRY org.infinitest.eclipse 1 0 2018-06-09 12:20:33.599
+!MESSAGE Added core dataStructures with classpath /Users/z002r24/Documents/learning/dataStructures/bin:/var/folders/8y/36s5s9p17zn_crn7f7hv0n613rcv4q/T/infinitest.jar
+
+!ENTRY org.infinitest.eclipse 1 0 2018-06-09 12:20:33.601
+!MESSAGE dataStructures Files changed: [/Users/z002r24/Documents/learning/dataStructures/bin/dataStructures/BinaryTree.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2018-06-09 12:20:57.228
+!MESSAGE dataStructures Files changed: [/Users/z002r24/Documents/learning/dataStructures/bin/dataStructures/Node.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2018-06-09 12:21:38.600
+!MESSAGE dataStructures Files changed: [/Users/z002r24/Documents/learning/dataStructures/bin/dataStructures/Node.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2018-06-09 12:22:15.692
+!MESSAGE dataStructures Files changed: [/Users/z002r24/Documents/learning/dataStructures/bin/dataStructures/Node.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2018-06-09 12:23:14.039
+!MESSAGE dataStructures Files changed: [/Users/z002r24/Documents/learning/dataStructures/bin/dataStructures/Node.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2018-06-09 12:24:15.986
+!MESSAGE dataStructures Files changed: [/Users/z002r24/Documents/learning/dataStructures/bin/dataStructures/BinaryTree.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2018-06-09 12:25:27.887
+!MESSAGE dataStructures Files changed: [/Users/z002r24/Documents/learning/dataStructures/bin/dataStructures/BinaryTree.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2018-06-09 12:28:41.950
+!MESSAGE dataStructures Files changed: [/Users/z002r24/Documents/learning/dataStructures/bin/dataStructures/BinaryTree.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2018-06-09 12:29:05.177
+!MESSAGE dataStructures Files changed: [/Users/z002r24/Documents/learning/dataStructures/bin/dataStructures/BinaryTree.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2018-06-09 12:30:28.606
+!MESSAGE dataStructures Files changed: [/Users/z002r24/Documents/learning/dataStructures/bin/dataStructures/BinaryTree.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2018-06-09 12:30:51.989
+!MESSAGE dataStructures Files changed: [/Users/z002r24/Documents/learning/dataStructures/bin/dataStructures/BinaryTree.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2018-06-09 12:36:10.377
+!MESSAGE dataStructures Files changed: [/Users/z002r24/Documents/learning/dataStructures/bin/dataStructures/BinaryTree.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2018-06-09 12:37:24.392
+!MESSAGE dataStructures Files changed: [/Users/z002r24/Documents/learning/dataStructures/bin/dataStructures/BinaryTree.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2018-06-09 16:13:57.245
+!MESSAGE dataStructures Files changed: [/Users/z002r24/Documents/learning/dataStructures/bin/dataStructures/BinaryTree.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2018-06-09 16:14:44.700
+!MESSAGE dataStructures Files changed: [/Users/z002r24/Documents/learning/dataStructures/bin/dataStructures/BinaryTree.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2018-06-09 16:15:26.702
+!MESSAGE dataStructures Files changed: [/Users/z002r24/Documents/learning/dataStructures/bin/dataStructures/BinaryTree.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2018-06-09 16:15:51.166
+!MESSAGE dataStructures Files changed: [/Users/z002r24/Documents/learning/dataStructures/bin/dataStructures/BinaryTree.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2018-06-09 16:23:16.166
+!MESSAGE dataStructures Files changed: [/Users/z002r24/Documents/learning/dataStructures/bin/dataStructures/BinaryTree.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2018-06-09 16:26:56.239
+!MESSAGE dataStructures Files changed: [/Users/z002r24/Documents/learning/dataStructures/bin/dataStructures/BinaryTree.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2018-06-09 16:27:02.305
+!MESSAGE dataStructures Files changed: [/Users/z002r24/Documents/learning/dataStructures/bin/dataStructures/BinaryTree.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2018-06-09 16:27:23.710
+!MESSAGE dataStructures Files changed: [/Users/z002r24/Documents/learning/dataStructures/bin/dataStructures/BinaryTree.class]

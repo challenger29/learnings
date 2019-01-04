@@ -1,0 +1,18 @@
+package dataStructures;
+
+public class BinaryTree {
+	
+	Node root;
+
+	public BinaryTree(Node root) {
+		this.root = root;
+	}
+
+	public BinaryTree() {
+		this.root=null;
+	}
+	
+	public Node addRecursive(int value){
+		return new Node(value);
+	}
+}
